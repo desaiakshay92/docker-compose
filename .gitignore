@@ -1,0 +1,33 @@
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+.env/
+
+# IDE or editor directories
+.vscode/
+.idea/
+*.swp
+
+# FastAPI-specific
+*.sqlite3
+*.db
+
+# Docker
+# *.dockerignore
+# Dockerfile
+# docker-compose.yml
+
+# Misc
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# Environment variables
+.env
